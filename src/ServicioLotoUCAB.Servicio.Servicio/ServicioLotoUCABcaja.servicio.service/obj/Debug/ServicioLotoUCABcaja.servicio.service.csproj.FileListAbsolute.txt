@@ -1,0 +1,59 @@
+C:\Users\bryrodri\Desktop\v1.2\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCABcaja.servicio.service.dll.config
+C:\Users\bryrodri\Desktop\v1.2\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCABcaja.servicio.service.dll
+C:\Users\bryrodri\Desktop\v1.2\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCABcaja.servicio.service.pdb
+C:\Users\bryrodri\Desktop\v1.2\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCAB.Servicio.Entidades.dll
+C:\Users\bryrodri\Desktop\v1.2\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCABcaja.Servicio.Logica.Comand.dll
+C:\Users\bryrodri\Desktop\v1.2\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCABcaja.Servicio.AccesoDatos.dll
+C:\Users\bryrodri\Desktop\v1.2\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\MySql.Data.dll
+C:\Users\bryrodri\Desktop\v1.2\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\Google.Protobuf.dll
+C:\Users\bryrodri\Desktop\v1.2\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCAB.Servicio.Entidades.pdb
+C:\Users\bryrodri\Desktop\v1.2\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCABcaja.Servicio.Logica.Comand.pdb
+C:\Users\bryrodri\Desktop\v1.2\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCABcaja.Servicio.AccesoDatos.pdb
+C:\Users\bryrodri\Desktop\v1.2\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\MySql.Data.xml
+C:\Users\bryrodri\Desktop\v1.2\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\obj\Debug\ServicioLotoUCABcaja.servicio.service.csprojAssemblyReference.cache
+C:\Users\bryrodri\Desktop\v1.2\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\obj\Debug\ServicioLotoUCABcaja.servicio.service.csproj.CoreCompileInputs.cache
+C:\Users\bryrodri\Desktop\v1.2\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\obj\Debug\ServicioLotoUCABcaja.servicio.service.csproj.CopyComplete
+C:\Users\bryrodri\Desktop\v1.2\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\obj\Debug\ServicioLotoUCABcaja.servicio.service.dll
+C:\Users\bryrodri\Desktop\v1.2\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\obj\Debug\ServicioLotoUCABcaja.servicio.service.pdb
+C:\Users\bryrodri\Desktop\v1.2\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCABcaja.Servicio.Exepciones.dll
+C:\Users\bryrodri\Desktop\v1.2\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCABcaja.Servicio.Exepciones.pdb
+C:\Users\Daren\Desktop\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCABcaja.servicio.service.dll.config
+C:\Users\Daren\Desktop\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCABcaja.servicio.service.dll
+C:\Users\Daren\Desktop\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCABcaja.servicio.service.pdb
+C:\Users\Daren\Desktop\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCAB.Servicio.Entidades.dll
+C:\Users\Daren\Desktop\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCABcaja.Servicio.Logica.Comand.dll
+C:\Users\Daren\Desktop\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCABcaja.Servicio.AccesoDatos.dll
+C:\Users\Daren\Desktop\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCABcaja.Servicio.Exepciones.dll
+C:\Users\Daren\Desktop\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\MySql.Data.dll
+C:\Users\Daren\Desktop\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\Google.Protobuf.dll
+C:\Users\Daren\Desktop\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCAB.Servicio.Entidades.pdb
+C:\Users\Daren\Desktop\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCABcaja.Servicio.Logica.Comand.pdb
+C:\Users\Daren\Desktop\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCABcaja.Servicio.AccesoDatos.pdb
+C:\Users\Daren\Desktop\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCABcaja.Servicio.Exepciones.pdb
+C:\Users\Daren\Desktop\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\MySql.Data.xml
+C:\Users\Daren\Desktop\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\obj\Debug\ServicioLotoUCABcaja.servicio.service.csprojAssemblyReference.cache
+C:\Users\Daren\Desktop\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\obj\Debug\ServicioLotoUCABcaja.servicio.service.csproj.CoreCompileInputs.cache
+C:\Users\Daren\Desktop\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\obj\Debug\ServicioLotoUCABcaja.servicio.service.csproj.CopyComplete
+C:\Users\Daren\Desktop\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\obj\Debug\ServicioLotoUCABcaja.servicio.service.dll
+C:\Users\Daren\Desktop\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\obj\Debug\ServicioLotoUCABcaja.servicio.service.pdb
+C:\Users\bryrodri\Desktop\v 1.3\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\obj\Debug\ServicioLotoUCABcaja.servicio.service.csprojAssemblyReference.cache
+C:\Users\bryrodri\Desktop\v 1.3\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\obj\Debug\ServicioLotoUCABcaja.servicio.service.csproj.CoreCompileInputs.cache
+C:\Users\bryrodri\Desktop\v 1.3\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\obj\Debug\ServicioLotoUCABcaja.servicio.service.dll
+C:\Users\bryrodri\Desktop\v 1.3\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\obj\Debug\ServicioLotoUCABcaja.servicio.service.pdb
+C:\Users\bryrodri\Desktop\v 1.3\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCABcaja.servicio.service.dll.config
+C:\Users\bryrodri\Desktop\v 1.3\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCABcaja.servicio.service.dll
+C:\Users\bryrodri\Desktop\v 1.3\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCABcaja.servicio.service.pdb
+C:\Users\bryrodri\Desktop\v 1.3\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\log4net.dll
+C:\Users\bryrodri\Desktop\v 1.3\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCAB.Servicio.Entidades.dll
+C:\Users\bryrodri\Desktop\v 1.3\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCABcaja.Servicio.Logica.Comand.dll
+C:\Users\bryrodri\Desktop\v 1.3\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCABcaja.Servicio.AccesoDatos.dll
+C:\Users\bryrodri\Desktop\v 1.3\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCABcaja.Servicio.Exepciones.dll
+C:\Users\bryrodri\Desktop\v 1.3\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\MySql.Data.dll
+C:\Users\bryrodri\Desktop\v 1.3\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\Google.Protobuf.dll
+C:\Users\bryrodri\Desktop\v 1.3\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCAB.Servicio.Entidades.pdb
+C:\Users\bryrodri\Desktop\v 1.3\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCABcaja.Servicio.Logica.Comand.pdb
+C:\Users\bryrodri\Desktop\v 1.3\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\log4net.xml
+C:\Users\bryrodri\Desktop\v 1.3\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCABcaja.Servicio.AccesoDatos.pdb
+C:\Users\bryrodri\Desktop\v 1.3\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\ServicioLotoUCABcaja.Servicio.Exepciones.pdb
+C:\Users\bryrodri\Desktop\v 1.3\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\bin\MySql.Data.xml
+C:\Users\bryrodri\Desktop\v 1.3\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.servicio.service\obj\Debug\ServicioLotoUCABcaja.servicio.service.csproj.CopyComplete

@@ -1,0 +1,16 @@
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.Servicio.dll.config
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.Servicio.dll
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.Servicio.pdb
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.Logica.Comandos.dll
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.AccesoDatos.dll
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.Logica.Comandos.pdb
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.AccesoDatos.pdb
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\obj\Debug\ServicioLotoUCAB.Servicio.Service.csprojAssemblyReference.cache
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\obj\Debug\ServicioLotoUCAB.Servicio.Service.csproj.CoreCompileInputs.cache
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\obj\Debug\ServicioLotoUCAB.Servicio.Service.csproj.CopyComplete
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\obj\Debug\ServicioLotoUCAB.Servicio.Servicio.dll
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\obj\Debug\ServicioLotoUCAB.Servicio.Servicio.pdb
+C:\Users\Daren\Music\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\obj\Debug\ServicioLotoUCAB.Servicio.Service.csprojAssemblyReference.cache
+C:\Users\Daren\Music\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\obj\Debug\ServicioLotoUCAB.Servicio.Service.csproj.CoreCompileInputs.cache
+C:\Users\bryrodri\Desktop\v1.2\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\obj\Debug\ServicioLotoUCAB.Servicio.Service.csprojAssemblyReference.cache
+C:\Users\bryrodri\Desktop\v1.2\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\obj\Debug\ServicioLotoUCAB.Servicio.Service.csproj.CoreCompileInputs.cache

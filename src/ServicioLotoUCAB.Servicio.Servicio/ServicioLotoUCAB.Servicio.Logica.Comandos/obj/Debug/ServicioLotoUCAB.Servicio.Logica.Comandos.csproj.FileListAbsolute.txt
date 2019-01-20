@@ -1,0 +1,13 @@
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Logica.Comandos\bin\Debug\ServicioLotoUCAB.Servicio.Logica.Comandos.dll
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Logica.Comandos\bin\Debug\ServicioLotoUCAB.Servicio.Logica.Comandos.pdb
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Logica.Comandos\bin\Debug\ServicioLotoUCAB.Servicio.AccesoDatos.dll
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Logica.Comandos\bin\Debug\ServicioLotoUCAB.Servicio.AccesoDatos.pdb
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Logica.Comandos\obj\Debug\ServicioLotoUCAB.Servicio.Logica.Comandos.csprojAssemblyReference.cache
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Logica.Comandos\obj\Debug\ServicioLotoUCAB.Servicio.Logica.Comandos.csproj.CoreCompileInputs.cache
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Logica.Comandos\obj\Debug\ServicioLotoUCAB.Servicio.Logica.Comandos.csproj.CopyComplete
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Logica.Comandos\obj\Debug\ServicioLotoUCAB.Servicio.Logica.Comandos.dll
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Logica.Comandos\obj\Debug\ServicioLotoUCAB.Servicio.Logica.Comandos.pdb
+C:\Users\Daren\Music\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Logica.Comandos\obj\Debug\ServicioLotoUCAB.Servicio.Logica.Comandos.csprojAssemblyReference.cache
+C:\Users\Daren\Music\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Logica.Comandos\obj\Debug\ServicioLotoUCAB.Servicio.Logica.Comandos.csproj.CoreCompileInputs.cache
+C:\Users\bryrodri\Desktop\v1.2\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Logica.Comandos\obj\Debug\ServicioLotoUCAB.Servicio.Logica.Comandos.csprojAssemblyReference.cache
+C:\Users\bryrodri\Desktop\v1.2\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Logica.Comandos\obj\Debug\ServicioLotoUCAB.Servicio.Logica.Comandos.csproj.CoreCompileInputs.cache

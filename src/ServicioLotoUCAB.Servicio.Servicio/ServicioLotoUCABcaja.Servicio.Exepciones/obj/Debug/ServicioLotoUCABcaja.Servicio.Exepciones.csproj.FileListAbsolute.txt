@@ -1,0 +1,12 @@
+C:\Users\bryrodri\Desktop\v1.2\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.Servicio.Exepciones\bin\Debug\ServicioLotoUCABcaja.Servicio.Exepciones.dll
+C:\Users\bryrodri\Desktop\v1.2\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.Servicio.Exepciones\bin\Debug\ServicioLotoUCABcaja.Servicio.Exepciones.pdb
+C:\Users\bryrodri\Desktop\v1.2\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.Servicio.Exepciones\obj\Debug\ServicioLotoUCABcaja.Servicio.Exepciones.csprojAssemblyReference.cache
+C:\Users\bryrodri\Desktop\v1.2\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.Servicio.Exepciones\obj\Debug\ServicioLotoUCABcaja.Servicio.Exepciones.csproj.CoreCompileInputs.cache
+C:\Users\bryrodri\Desktop\v1.2\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.Servicio.Exepciones\obj\Debug\ServicioLotoUCABcaja.Servicio.Exepciones.dll
+C:\Users\bryrodri\Desktop\v1.2\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.Servicio.Exepciones\obj\Debug\ServicioLotoUCABcaja.Servicio.Exepciones.pdb
+C:\Users\bryrodri\Desktop\v 1.3\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.Servicio.Exepciones\bin\Debug\ServicioLotoUCABcaja.Servicio.Exepciones.dll
+C:\Users\bryrodri\Desktop\v 1.3\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.Servicio.Exepciones\bin\Debug\ServicioLotoUCABcaja.Servicio.Exepciones.pdb
+C:\Users\bryrodri\Desktop\v 1.3\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.Servicio.Exepciones\obj\Debug\ServicioLotoUCABcaja.Servicio.Exepciones.csprojAssemblyReference.cache
+C:\Users\bryrodri\Desktop\v 1.3\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.Servicio.Exepciones\obj\Debug\ServicioLotoUCABcaja.Servicio.Exepciones.csproj.CoreCompileInputs.cache
+C:\Users\bryrodri\Desktop\v 1.3\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.Servicio.Exepciones\obj\Debug\ServicioLotoUCABcaja.Servicio.Exepciones.dll
+C:\Users\bryrodri\Desktop\v 1.3\ISUCAB_15524-master\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCABcaja.Servicio.Exepciones\obj\Debug\ServicioLotoUCABcaja.Servicio.Exepciones.pdb
